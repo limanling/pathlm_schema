@@ -107,8 +107,6 @@ venv.bak/
 
 result/
 
-data/
-
 vis/
 
 data_utils/preprocessors/ace/log

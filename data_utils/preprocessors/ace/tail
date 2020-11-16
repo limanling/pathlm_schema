@@ -1,0 +1,24 @@
+
+
+                    <p style="text-align: center;"><a style="text-decoration: none; display:inline-block; padding: 10px 20px; border-radius: 20px; background-color: #94bf03;
+                    color: #fff; font-weight: 800; font-size: 15px;" href="http://blender.cs.illinois.edu/software/schema/top3/visualization.html" target="_blank">Back To Main Page</a></p>
+                    <br/>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111262674-4"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-111262674-4');
+    </script>
+</div>
+</body>
+</html>
